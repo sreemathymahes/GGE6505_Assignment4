@@ -1,5 +1,7 @@
 Group 10 Assignment 4 for GGE 6505 Intro to Big Data
 
+Link to GitHub: https://github.com/sreemathymahes/GGE6505_Assignment4
+
 Members of Group: Avery Grouette, Sreemathy Maheswaramoorthy, Ngoc Phuong Anh Nguyen
 
 For this assignment there are three .ipynb code and many .csv tables and this ReadMe.txt is meant to clarify the various documents
